@@ -24,7 +24,7 @@ To run this project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/flutter_chat_ui.git
+git clone https://github.com/alokkumaar1/flutter_chat_ui.git
 cd flutter_chat_ui
 
 
