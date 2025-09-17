@@ -1,4 +1,4 @@
-# Apps From Scratch: Flutter Chat UI
+# Flutter Chat UI
 
 Flutter Chat UI
 
